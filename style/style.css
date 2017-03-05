@@ -1,0 +1,12 @@
+.searchbar {
+	margin: 20px;
+}
+
+.list-group-item:hover {
+	background: #ccc;
+	cursor: pointer;
+}
+
+.media-object {
+	max-width: 64px;
+}
